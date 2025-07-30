@@ -1,26 +1,16 @@
-🎉 Excited to Launch My First Developer Portfolio!
+# 🌐 My Developer Portfolio
 
-After diving deep into HTML, CSS, and JavaScript fundamentals, I’ve built and published my first developer portfolio website!
+Welcome to my personal portfolio website! Built with HTML, CSS, and JavaScript, this site showcases my web development projects and skills.
 
-💼 What’s Inside:
+## 🚀 Features
+- Responsive design
+- BEM-based CSS structure
+- Clean and semantic HTML
+- Project gallery
 
-About Me
+## 🔗 Live Site
+[Visit Portfolio](https://yourdomain.com)
 
-My Projects (including one built using the BEM methodology)
-
-Contact Section
-
-Clean, responsive design using semantic HTML and modern CSS practices
-
-🔧 Tech Used:
-
-HTML5
-
-CSS3 (with BEM for structure and scalability)
-
-Responsive design (Flexbox)
-This is just the beginning of my journey as a full-stack developer. I'm currently diving into JavaScript projects, and next up: frameworks like React and backend development.
-
-I’d love for you to check it out and share any feedback!
-
-#webdevelopment #portfolio #html #css #bem #frontend #fullstack #beginnerdeveloper
+## 🛠 Tech Stack
+- HTML5
+- CSS3 (BEM Methodology)

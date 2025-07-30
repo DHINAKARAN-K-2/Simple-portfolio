@@ -9,7 +9,7 @@ Welcome to my personal portfolio website! Built with HTML, CSS, and JavaScript, 
 - Project gallery
 
 ## 🔗 Live Site
-[Visit Portfolio](https://yourdomain.com)
+[Visit Portfolio](https://dhinakaran-k-2.github.io/Simple-portfolio/)
 
 ## 🛠 Tech Stack
 - HTML5
